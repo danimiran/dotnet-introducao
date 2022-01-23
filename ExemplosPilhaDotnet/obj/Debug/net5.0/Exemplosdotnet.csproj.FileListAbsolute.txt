@@ -1,0 +1,16 @@
+C:\Users\danie\DIO-GFT\Exemplosdotnet\bin\Debug\net5.0\Exemplosdotnet.exe
+C:\Users\danie\DIO-GFT\Exemplosdotnet\bin\Debug\net5.0\Exemplosdotnet.deps.json
+C:\Users\danie\DIO-GFT\Exemplosdotnet\bin\Debug\net5.0\Exemplosdotnet.runtimeconfig.json
+C:\Users\danie\DIO-GFT\Exemplosdotnet\bin\Debug\net5.0\Exemplosdotnet.runtimeconfig.dev.json
+C:\Users\danie\DIO-GFT\Exemplosdotnet\bin\Debug\net5.0\Exemplosdotnet.dll
+C:\Users\danie\DIO-GFT\Exemplosdotnet\bin\Debug\net5.0\ref\Exemplosdotnet.dll
+C:\Users\danie\DIO-GFT\Exemplosdotnet\bin\Debug\net5.0\Exemplosdotnet.pdb
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.csproj.AssemblyReference.cache
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.AssemblyInfoInputs.cache
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.AssemblyInfo.cs
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.csproj.CoreCompileInputs.cache
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.dll
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\ref\Exemplosdotnet.dll
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.pdb
+C:\Users\danie\DIO-GFT\Exemplosdotnet\obj\Debug\net5.0\Exemplosdotnet.genruntimeconfig.cache
